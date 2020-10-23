@@ -12,7 +12,7 @@
 * :diamond_shape_with_a_dot_inside: Domain Path: /languages
 * :diamond_shape_with_a_dot_inside: Text Domain: myadmin
 
-![Image of menu sidebar](dashboard_admin.png)
+![Image of dashboard admin](dashboard-admin.png)
 
 |  |  | Follow me: Cheche Pech |  |  |
 | --- | --- | :---: | ---| --- |
